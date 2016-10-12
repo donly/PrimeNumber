@@ -1,2 +1,2 @@
 # PrimeNumber
-an simple Java program
+a simple Java program
